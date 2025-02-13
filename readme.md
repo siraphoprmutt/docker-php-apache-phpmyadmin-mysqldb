@@ -1,4 +1,4 @@
-# Docker PHP Apache MySQL with phpMyAdmin
+# Docker PHP 7.4 + Apache 2.4
 
 ## คำสั่ง ใช้งาน
 
