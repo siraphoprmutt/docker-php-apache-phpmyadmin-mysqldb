@@ -1,4 +1,4 @@
-# Docker PHP 7.4 + Apache 2.4
+# docker-php-apache-phpmyadmin-mysqldb
 
 ## คำสั่ง ใช้งาน
 
